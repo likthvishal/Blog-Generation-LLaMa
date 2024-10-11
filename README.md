@@ -11,9 +11,13 @@ Trained the model on a dataset of 10,000 blog samples.
 
 ### Features
 Blog Generation: Generates relevant and high-quality blog content tailored to user preferences.
+
 User Input Customization: Allows users to define the topic, style, and tone of the generated blog posts.
+
 Content Relevance: Achieves a 90% relevance score based on user-defined topics and input criteria.
+
 Performance: Response time for generating a blog is under 2 seconds.
+
 End-to-End Development: Covers the complete pipeline from data collection and training to model deployment.
 
 ### Dataset
